@@ -1,0 +1,76 @@
+[{
+    "id": 1,
+    "course_name": "Pannier",
+    "inst_name": "Fachhochschule Osnabrück",
+    "price": 19
+  }, {
+    "id": 2,
+    "course_name": "Regrant",
+    "inst_name": "Columbia College Chicago",
+    "price": 38
+  }, {
+    "id": 3,
+    "course_name": "Sonsing",
+    "inst_name": "EHSAL - Europese Hogeschool Brussel",
+    "price": 71
+  }, {
+    "id": 4,
+    "course_name": "Temp",
+    "inst_name": "University of Peshawar",
+    "price": 73
+  }, {
+    "id": 5,
+    "course_name": "Domainer",
+    "inst_name": "Russian State Geological Prospecting University ",
+    "price": 49
+  }, {
+    "id": 6,
+    "course_name": "Subin",
+    "inst_name": "University of LaVerne in Athens",
+    "price": 68
+  }, {
+    "id": 7,
+    "course_name": "Sub-Ex",
+    "inst_name": "Athabasca University",
+    "price": 27
+  }, {
+    "id": 8,
+    "course_name": "Aerified",
+    "inst_name": "Pennsylvania State University - Altoona",
+    "price": 49
+  }, {
+    "id": 9,
+    "course_name": "Lotlux",
+    "inst_name": "Govind Ballabh Pant University of Agriculture and Technology",
+    "price": 22
+  }, {
+    "id": 10,
+    "course_name": "Bitwolf",
+    "inst_name": "City University Athens",
+    "price": 57
+  }, {
+    "id": 11,
+    "course_name": "Trippledex",
+    "inst_name": "Technological Education Institute of Lamia",
+    "price": 35
+  }, {
+    "id": 12,
+    "course_name": "Bigtax",
+    "inst_name": "Capital University Law School",
+    "price": 31
+  }, {
+    "id": 13,
+    "course_name": "Tempsoft",
+    "inst_name": "Kumamoto Institute of Technology",
+    "price": 35
+  }, {
+    "id": 14,
+    "course_name": "Transcof",
+    "inst_name": "Kobe University",
+    "price": 23
+  }, {
+    "id": 15,
+    "course_name": "Tampflex",
+    "inst_name": "Universidad Empresarial",
+    "price": 19
+  }]
